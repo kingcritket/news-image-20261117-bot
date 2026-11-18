@@ -1,9 +1,12 @@
 # news-image-20261117 entry (Python 3.13, standard library only).
 #
 # The entry is the image held in this repository (entry.png): one image
-# summing up the world news of Tuesday 17 November 2026 -- the Kerch
-# Bridge strike, tankers burning near the Strait of Hormuz, and the
-# Xi-Trump-Putin trilateral announced for Shenzhen.
+# summing up the world news of Tuesday 17 November 2026 -- US jets striking
+# Iranian missile sites on Qeshm Island (and Iran's drones targeting US radar
+# in Bahrain), the Kerch Bridge span brought down by Ukrainian drones, Nvidia
+# topping $115B in quarterly revenue while its board refuses to bring back
+# fired CEO Jensen Huang, plus a strip with the Shenzhen trilateral, the
+# French cost-of-living marches and the Ebola outbreak in Congo.
 #
 # This program copies that image to the output directory. It uses no
 # network and is deterministic: every run writes the same bytes.
