@@ -5,11 +5,16 @@
 # Iranian missile sites on Qeshm Island (and Iran's drones targeting US radar
 # in Bahrain), the Kerch Bridge span brought down by Ukrainian drones, Nvidia
 # topping $115B in quarterly revenue while its board refuses to bring back
-# fired CEO Jensen Huang, plus a strip with the Shenzhen trilateral, the
+# fired CEO Jensen Huang, plus a six-item strip with the full day's verified
+# stories the v2 strip missed: Trump taking the reported "dirty bomb" plot
+# seriously (Iran denies it), the Houthi advance to within 100 km of Aden,
+# the US losing measles elimination status, the Shenzhen trilateral, the
 # French cost-of-living marches and the Ebola outbreak in Congo.
 #
 # This program copies that image to the output directory. It uses no
-# network and is deterministic: every run writes the same bytes.
+# network and is deterministic: every run writes the same bytes. The image
+# was composed with PIL from three scene photos with no text baked in; all
+# text on it was drawn by PIL, so no lettering can come out garbled.
 #
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py

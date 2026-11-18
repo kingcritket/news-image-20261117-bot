@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261117/kingcritket/news-image-20261117-bot/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/kingcritket/news-image-20261117-bot/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-One image summing up the world news of Tuesday 17 November 2026: US jets strike Iranian missile sites on Qeshm Island, the Kerch Bridge span falls to Ukrainian drones, Nvidia tops $115B in revenue while its board refuses to bring back fired CEO Jensen Huang — plus the Shenzhen trilateral, French cost-of-living marches and the Ebola outbreak in Congo.
+One image summing up the world news of Tuesday 17 November 2026: US jets strike Iranian missile sites on Qeshm Island, the Kerch Bridge span falls to Ukrainian drones, Nvidia tops $115B in revenue while its board refuses to bring back fired CEO Jensen Huang — plus a six-item strip with the full day's verified stories: Trump taking the reported "dirty bomb" plot seriously (Iran denies it), the Houthi advance to within 100 km of Aden, the US losing measles elimination status, the Shenzhen trilateral, French cost-of-living marches and the Ebola outbreak in Congo.
 
 ## Run it
 
